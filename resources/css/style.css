@@ -177,6 +177,10 @@ margin-left:  12.5%;
 padding:1%;
     }
 
+.section-meals {
+        padding: 0;
+    }
+
 .meals-showcase {
 list-style: none;
 width: 100%;
